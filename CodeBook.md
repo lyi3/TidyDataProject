@@ -1,4 +1,4 @@
-The data used is from Human Activity Recognition Using Smartphones Data Set.
+This is Human Activity Recognition Using Smartphones Data Set.
 
 Souce:
 
